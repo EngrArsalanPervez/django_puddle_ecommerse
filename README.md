@@ -11,3 +11,7 @@
 8. Go to http://127.0.0.1:8000/admin
 9. Add new products
 10. Run site
+  
+
+  
+Project Implemented on [Academic Master](https://academic-master.com/)
